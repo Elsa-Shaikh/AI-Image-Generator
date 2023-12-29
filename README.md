@@ -1,3 +1,11 @@
+# AI Image Generator
+I have created an AI image generator using the OpenAI API Key that generates images based on descriptions. This has been created using React.js.
+
+# Technology
+ReactJS
+HTML
+CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
